@@ -1,0 +1,111 @@
+div{
+    background-image:url(nature.html);
+    text-align: center;
+    padding-top: 40px;
+}
+h1{
+    text-decoration: underline color-mix(in srgb, red 10%, yellow 20%);
+}
+h2{
+      margin:30px 0 15px;
+      color:#333;
+      text-decoration:underline;
+    }
+
+    .small{
+      font-size:13px;
+    }
+
+    .medium{
+      font-size:18px;
+      font-weight:bold;
+    }
+
+    .italic{
+      font-style:italic;
+    }
+
+    .right{
+      text-align:right;
+    }
+
+    .center{
+      text-align:center;
+    }
+
+    .justify{
+      text-align:justify;
+    }
+
+    .uppercase{
+      text-transform:uppercase;
+    }
+
+    .spaced{
+      letter-spacing:6px;
+    }
+
+    .shadow{
+      text-shadow:2px 2px 4px rgba(0,0,0,.3);
+    }
+
+    .wide-space{
+      word-spacing:20px;
+    }
+
+    .gradient-text{
+      background:linear-gradient(to right,#7b2ff7,#f107a3);
+      -webkit-background-clip:text;
+      -webkit-text-fill-color:transparent;
+      font-weight:bold;
+    }
+
+    /* Image sections */
+    .image-box{
+      margin:20px 0;
+      height:70px;
+      display:flex;
+      align-items:center;
+      padding-left:15px;
+      color:#444;
+      font-size:14px;
+      border-radius:4px;
+      overflow:hidden;
+    }
+
+    .green-bg{
+      background:#dfeedd;
+    }
+
+    .mountain{
+      background:
+        linear-gradient(rgba(255,255,255,.4), rgba(255,255,255,.4)),
+        url('https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1200&auto=format&fit=crop')
+        center/cover;
+    }
+
+    .pink-bg{
+      background:#f9ecec;
+    }
+
+    .blue-bg{
+      background:#dff5ff;
+    }
+
+    .lake{
+      background:
+        linear-gradient(rgba(255,255,255,.35), rgba(255,255,255,.35)),
+        url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop')
+        center/cover;
+    }
+
+    .rainbow{
+      background:linear-gradient(to right,
+      #6a11cb,
+      #2575fc,
+      #00c9a7,
+      #f9f871,
+      #ff6a00,
+      #ff0080);
+      color:white;
+    }

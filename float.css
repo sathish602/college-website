@@ -1,0 +1,38 @@
+.img{
+    height: 200px;
+    width: 400px;
+   border-radius: 10px;
+   margin-left: 10px;
+   float:left;
+   text-align: justify;
+}
+h2{
+    color: green;
+}
+.f{
+    font-size: 20px;
+}
+.imgs{
+    height: 200px;
+    width: 400px;
+   border-radius: 10px;
+   margin-left: 10px;
+   float:right;
+  margin-top: 10px;
+}
+.g{
+    margin-top: 70px;
+    font-size: 20px;
+}
+.imgs1{
+    height: 200px;
+    width: 400px;
+   border-radius: 10px;
+   margin-left: 10px;
+   float:left;
+   text-align: justify;
+}
+.h{
+    margin-top: 70px;
+    font-size: 20px;
+}

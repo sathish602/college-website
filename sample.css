@@ -1,0 +1,52 @@
+.box{
+    border: 2px solid whitesmoke;
+    width: 500px;
+    height: 330px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 20px green;
+    background-color: bisque;
+}
+.one,.two,.three,.four{
+    color: red;
+    font-size: 20px;
+    height: 80px;
+    width: 80px;
+    top: 15px;
+    right: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    background-color:white;
+    border-radius: 10px;
+    box-shadow: 10px black;
+    font-size: 30px;
+}
+.day{
+   font-size:10px;
+   color: black;
+   margin-top:1px;
+   top: 10px;
+
+}
+.hours{
+   text-align:middle;
+   font-size:10px;
+   color: black; 
+}
+.min{
+    text-align:middle;
+   font-size:10px;
+   color: black;
+}
+.sec{
+    text-align:middle;
+   font-size:10px;
+   color: black;
+}
+.but{
+    background-color: greenyellow;
+    border: none;
+    height: 30px;
+    width: 150px;
+}

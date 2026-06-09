@@ -1,0 +1,37 @@
+table,th,td{
+    border-bottom: 1px solid black;
+    border-collapse: separate;
+    border-collapse: collapse;
+    padding: 20px;
+    text-align: center;
+   
+}
+ .p{
+      display:flex;
+      align-items:center;
+      gap:10px;
+    }
+
+    .progress-bar{
+      width:90px;
+      height:6px;
+      background:#e5e7eb;
+      border-radius:10px;
+      overflow:hidden;
+    }
+
+    .progress{
+      height:100%;
+      border-radius:10px;
+    }
+    .green{ background:#22c55e; width:75%; }
+    .purple{ background:#8b5cf6; width:50%; }
+    .pink{ background:#ec4899; width:90%; }
+    .orange{ background:#f59e0b; width:60%; }
+    .blue{ background:#06b6d4; width:85%; }
+    .lightgreen{ background:#10b981; width:40%; }
+img{
+  height: 25px;
+  width: 25px;
+  border-radius: 20px;
+}

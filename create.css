@@ -1,0 +1,56 @@
+.a{
+    border: 2px solid rgb(7, 7, 8);
+    vertical-align: middle;
+    display: inline-block;
+    text-align: center;
+    width: 300px;
+    margin-left: 500px;
+    border-radius: 10px;
+    
+}
+.b{
+  width: 270px;
+  height: 20px;
+  border-radius: 5px;
+  
+}
+.l{
+    text-align: left;
+}
+.c{
+    background-color: rgb(14, 247, 14);
+    width: 270px;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.call{
+   position: absolute;
+   bottom: 111px;
+   font-size: 23px;
+   left: 530px;
+}
+.mail{
+   position: absolute;
+   bottom: 340px;
+   font-size: 23px;
+   left: 530px;
+}
+.p{
+   position: absolute;
+   bottom: 415px;
+   font-size: 23px;
+   left: 530px;
+}
+.con{
+   position: absolute;
+   bottom: 263px;
+   font-size: 28px;
+   left: 770px;
+}
+.cons{
+   position: absolute;
+   bottom: 187px;
+   font-size: 28px;
+   left: 770px;
+}

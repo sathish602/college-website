@@ -1,0 +1,148 @@
+.box{
+    height: 300;
+    width: 500;
+    box-shadow: 1px 1px 1px 1px;
+}
+h2{
+    font-family: sans-serif;
+}
+.p::first-letter{
+    color: green ;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.p::first-line{
+    color: darkgreen;
+}
+.p1::before{
+    content: '✔';
+    color: brown;
+}
+.p1{
+    background-color: lightgreen;
+    font-size: 20px;
+}
+.p2::before{
+    content: '✔';
+    color: brown;
+}
+.p3::before{
+    content: '✔';
+    color: brown;
+}
+.p3{
+    background-color:skyblue;
+    
+}
+.p4::before{
+    content: '✔';
+    color: brown;
+}
+.p5::before{
+    content: '✔';
+    color: brown;
+}
+.p5{
+    background-color: wheat;
+    font-style: italic;
+}
+.p{
+    font-size:20px;
+}
+.box1{
+    height: 300;
+    width: 500;
+    box-shadow: 1px 1px 1px 1px;
+}
+.s::first-letter{
+    color: green ;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.s::first-line{
+    color: darkgreen;
+}
+.s{
+    font-size:20px;
+}
+.a1::before{
+    content: '➤';
+    color: orangered;
+}
+.a2::before{
+    content: '➤';
+    color: orangered;
+}
+.a3::before{
+    content: '➤';
+    color: orangered;
+}
+.a4::before{
+    content: '➤';
+    color: orangered;
+}
+.a5::before{
+    content: '➤';
+    color: orangered;
+}
+.a1{
+    background-color: lightgreen;
+    font-size: 20px;
+}
+.a3{
+    background-color: lightskyblue;
+}
+.a5{
+    background-color: wheat;
+    font-style: italic;
+}
+.box3{
+    height: 300;
+    width: 500;
+    box-shadow: 1px 1px 1px 1px;
+}
+.c::first-letter{
+    color: green ;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.c::first-line{
+    color: darkgreen;
+}
+.b1::before{
+    content: '➜';
+    color: darkblue;
+}
+.b2::before{
+    content: '➜';
+    color: darkblue;
+}
+.b3::before{
+    content: '➜';
+    color: darkblue;
+}
+.b4::before{
+    content: '➜';
+    color: darkblue;
+}
+.b5::before{
+    content: '➜';
+    color: darkblue;
+}
+.b1{
+    background-color: lightgreen;
+    font-size: 20px;
+}
+.b3{
+    background-color: lightskyblue;
+}
+.b5{
+    background-color: wheat;
+    font-style: italic;
+}
+.c{
+    font-size:20px;
+}
+h1{
+    padding-top: 30px;
+}
